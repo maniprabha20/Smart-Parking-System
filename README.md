@@ -1,6 +1,9 @@
 # 🚗 Smart Parking System
 
 A web-based Smart Parking Management System developed using **Python, Flask, HTML, CSS, JavaScript, and SQLite**. The system helps manage parking slots, vehicle entry and exit, token generation, parking records, WhatsApp booking confirmation, and overtime fine calculation.
+## 🌐 Live Demo
+
+[🚀 Open Smart Parking System](https://smart-parking-system-gn9z.onrender.com)
 
 ## 📌 Project Overview
 
